@@ -108,6 +108,15 @@ body {
     height: 160px;
 }
 
+.signature-text{
+    position: absolute;
+    right: 1px;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
 .signature {
     position: absolute;
     bottom: 30px;
@@ -122,5 +131,6 @@ body {
     bottom: 10px;
     left: 20px;
     font-size: 12px;
+    font-weight: bold;
     color: #333;
 }
